@@ -38,3 +38,20 @@ body {
     background-color: transparent;
     border: 2px solid var(--branco-principal);
 }
+
+.container__aviso {
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.container__imagem {
+    margin: 1em 0 2em0;
+}
+
+.container__caixa {
+    margin: 0 6em;
+}
+
+.secundario__imagem {
+    width: 80%;
+}
