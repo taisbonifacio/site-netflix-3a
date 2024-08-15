@@ -77,12 +77,6 @@ body {
 }
 
 
-
-.descricao__texto{
-    color: var(--cinza-secundario);
-}
-
-
 .descricao__titulo{
     font-weight: 700;
     font-size: 48px;
